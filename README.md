@@ -1,4 +1,4 @@
-UO Merch Front-End Prototyper
+Front-End Prototyper
 ============================
 
 ###Proof of Concept
