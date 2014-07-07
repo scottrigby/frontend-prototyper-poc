@@ -1,6 +1,4 @@
-Universal Orlando Merchandise
-============================
-Front-End Prototyper
+UO Merch Front-End Prototyper
 ============================
 
 ###Proof of Concept
